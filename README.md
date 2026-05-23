@@ -1,3 +1,11 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=AI+Engineer;LLM+Pipeline+Builder;Backend+%26+CV+Engineer;Ex-Razorpay+%7C+Interning+%40W%26B;Open+to+Roles)](https://git.io/typing-svg)
+
+</div>
+
+---
+
 # Rapeti Raj Kumar Satya
 
 **AI Engineer** — production backend systems, LLM pipelines, computer vision.
@@ -16,6 +24,16 @@
 
 ---
 
+## Tech Stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,aws,docker,kubernetes,postgres,redis,git,linux)](https://skillicons.dev)
+
+</div>
+
+---
+
 ## Experience
 
 | Company | Role | What I did |
@@ -24,20 +42,6 @@
 | **Possible Finance** | Software Engineering Intern | FastAPI lending workflows, OpenAI API integration cutting doc processing by 35%, AWS-deployed containerized services |
 | **Western Illinois University** | Research Assistant | Adversarial robustness on medical AI — DenseNet-121, FGSM/PGD, Grad-CAM; paper accepted for peer review |
 | **Razorpay** | Software Engineer | Payments infra at fintech unicorn scale — reconciliation automation, microservices migration, 25% latency reduction |
-
----
-
-## Tech
-
-```
-Languages    Python · SQL · Bash
-AI/ML        PyTorch · TensorFlow · W&B Weave · OpenAI API · Pinecone · Grad-CAM · FGSM/PGD
-CV           OpenCV · DenseNet-121 · CNN
-Backend      FastAPI · Flask · REST APIs
-Databases    PostgreSQL · Redis · Pinecone · Oracle
-Infra        AWS · Docker · Kubernetes · CI/CD
-Tools        Git · pytest · Pandas · NumPy · Jira · Linux
-```
 
 ---
 
@@ -53,6 +57,20 @@ Tools        Git · pytest · Pandas · NumPy · Jira · Linux
 
 - AI Software Engineering Intern at **Weights & Biases** (Jan 2026 – present)
 - Open to **AI Engineer**, **ML Engineer**, and **Backend Engineer** roles
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajkumar-prog/rajkumar-prog/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajkumar-prog/rajkumar-prog/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rajkumar-prog/rajkumar-prog/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 ---
 
