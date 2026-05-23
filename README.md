@@ -1,4 +1,4 @@
-# Raj Kumar Satya
+# Rapeti Raj Kumar Satya
 
 **AI Engineer** — production systems, LLM pipelines, computer vision.
 
