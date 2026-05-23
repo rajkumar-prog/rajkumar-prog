@@ -1,18 +1,18 @@
 # Rapeti Raj Kumar Satya
 
-**AI Engineer** — production systems, LLM pipelines, computer vision.
+**AI Engineer** — production backend systems, LLM pipelines, computer vision.
 
-3+ years building things that ship: payments infrastructure at **Razorpay** (100M+ users), LLM evaluation tooling at **Weights & Biases**, and applied CV research with a peer-reviewed publication. Currently freelancing on AI/ML projects while finishing an MS in Computer Science.
+3+ years building things that ship: payments infrastructure at **Razorpay** (100M+ users), LLM evaluation tooling at **Weights & Biases**, fintech APIs at **Possible Finance**, and applied CV research with a peer-reviewed publication. Currently an AI Software Engineering Intern at W&B while holding two MS degrees (Computer Science + IT Management).
 
 ---
 
 ## What I build
 
-**AI/ML systems** — RAG pipelines, LLM evaluation frameworks, multi-agent workflows, fine-tuning (LoRA/PEFT), and model deployment at scale.
+**AI/ML systems** — RAG pipelines, LLM evaluation frameworks (W&B Weave), vector similarity search with Pinecone, adversarial robustness testing, and model deployment at scale.
 
-**Computer vision** — 3D scene understanding, object detection with YOLOv8/PointNet++, autonomous driving perception, AR overlays.
+**Computer vision** — adversarial ML on medical imaging (DenseNet-121, NIH ChestX-ray14), object detection, Grad-CAM explainability, FGSM/PGD attack pipelines.
 
-**Backend** — FastAPI microservices, REST APIs, AWS (Lambda, EC2, S3), Docker/Kubernetes. Built and maintained systems handling millions of daily payment events at Razorpay.
+**Backend** — FastAPI/Flask microservices, REST APIs, AWS (Lambda, EC2, S3), Docker/Kubernetes, PostgreSQL, Redis, Oracle. Built systems handling millions of daily payment events at Razorpay.
 
 ---
 
@@ -20,30 +20,38 @@
 
 | Company | Role | What I did |
 |---|---|---|
-| **Razorpay** | Software Engineer | Payments infrastructure at scale — 100M+ users, high-throughput transaction processing |
-| **Weights & Biases** | ML Engineer | LLM evaluation tooling, experiment tracking integrations, Weave contributions |
-
-**Research** — published paper on medical image analysis; co-authored work on 3D object detection for autonomous systems.
+| **Weights & Biases** | AI Software Engineering Intern | LLM evaluation pipelines via W&B Weave, 30% latency reduction, Pinecone vector search at 1M+ experiment scale |
+| **Possible Finance** | Software Engineering Intern | FastAPI lending workflows, OpenAI API integration cutting doc processing by 35%, AWS-deployed containerized services |
+| **Western Illinois University** | Research Assistant | Adversarial robustness on medical AI — DenseNet-121, FGSM/PGD, Grad-CAM; paper accepted for peer review |
+| **Razorpay** | Software Engineer | Payments infra at fintech unicorn scale — reconciliation automation, microservices migration, 25% latency reduction |
 
 ---
 
 ## Tech
 
 ```
-Languages    Python · JavaScript/TypeScript · SQL · Bash
-AI/ML        PyTorch · HuggingFace · LangChain · LlamaIndex · CrewAI · OpenAI API
-CV           OpenCV · YOLOv8 · PointNet++ · Open3D
-Backend      FastAPI · Node.js · PostgreSQL · Redis
-Infra        AWS · Docker · Kubernetes · GitHub Actions
-Tracking     Weights & Biases · MLflow · RAGAS
+Languages    Python · SQL · Bash
+AI/ML        PyTorch · TensorFlow · W&B Weave · OpenAI API · Pinecone · Grad-CAM · FGSM/PGD
+CV           OpenCV · DenseNet-121 · CNN
+Backend      FastAPI · Flask · REST APIs
+Databases    PostgreSQL · Redis · Pinecone · Oracle
+Infra        AWS · Docker · Kubernetes · CI/CD
+Tools        Git · pytest · Pandas · NumPy · Jira · Linux
 ```
+
+---
+
+## Education
+
+- M.S., Computer Science — Western Illinois University
+- M.S., Information Technology Management — Belhaven University
+- B.Tech., Computer Science & Engineering — MRIET
 
 ---
 
 ## Currently
 
-- Freelancing on AI/ML projects (RAG systems, LLM pipelines, CV applications)
-- MS Computer Science — graduating 2025
+- AI Software Engineering Intern at **Weights & Biases** (Jan 2026 – present)
 - Open to **AI Engineer**, **ML Engineer**, and **Backend Engineer** roles
 
 ---
@@ -51,4 +59,4 @@ Tracking     Weights & Biases · MLflow · RAGAS
 ## Connect
 
 - LinkedIn: [linkedin.com/in/rajkumarsatya](https://www.linkedin.com/in/rajkumarsatya)
-- Email: open to outreach via LinkedIn
+- Email: rajkumarsatya65@gmail.com
