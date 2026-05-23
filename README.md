@@ -59,4 +59,4 @@ Tools        Git · pytest · Pandas · NumPy · Jira · Linux
 ## Connect
 
 - LinkedIn: [linkedin.com/in/rajkumarsatya](https://www.linkedin.com/in/rajkumarsatya)
-- Email: rajkumarsatya65@gmail.com
+- Email: satyarajkumar411@gmail.com
