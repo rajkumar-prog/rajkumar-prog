@@ -56,7 +56,16 @@
 ## Currently
 
 - AI Software Engineering Intern at **Weights & Biases** (Jan 2026 – present)
+- Actively contributing to open source — wandb/weave · openai/evals · ragas
 - Open to **AI Engineer**, **ML Engineer**, and **Backend Engineer** roles
+
+---
+
+## How I build
+
+Ship something working first — then make it better. Every project here started as a first commit, not a finished product. I'd rather have something real in front of people than a perfect version that never ships.
+
+*Fortune favors the brave.*
 
 ---
 
