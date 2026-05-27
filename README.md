@@ -47,9 +47,9 @@
 
 ## Education
 
-- M.S., Computer Science — Western Illinois University
-- M.S., Information Technology Management — Belhaven University
-- B.Tech., Computer Science & Engineering — MRIET
+- M.S., Computer Science — Western Illinois University, USA
+- M.S., Information Technology Management — Belhaven University, USA
+- B.Tech., Computer Science & Engineering — MRIET, IN
 
 ---
 
